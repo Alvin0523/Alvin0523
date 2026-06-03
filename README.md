@@ -19,7 +19,7 @@
 
 📫 [m230060@e.ntu.edu.sg](mailto:m230060@e.ntu.edu.sg) · 💼 [**LinkedIn**](https://www.linkedin.com/in/wongweiming) (projects & longer bio) · 🐙 [GitHub](https://github.com/Alvin0523)
 
-🧠 Interested in **embodied planning**, **robotics**, **spatial AI**, and **embodied AI** — scene understanding, simulation, and reliable long-horizon robot behavior. Open to collab.
+🧠 Interested in **embodied planning**, **robotics**, **spatial AI**, and **embodied AI** — scene understanding, simulation, and reliable long-horizon robot behavior.
 
 ---
 
