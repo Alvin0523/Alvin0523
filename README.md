@@ -64,22 +64,18 @@
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alvin0523&theme=monokai" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvin0523&theme=monokai" alt="Profile details" />
 <img height="180" src="https://streak-stats.demolab.com/?user=Alvin0523&theme=monokai&hide_border=true" alt="Contribution streak" />
 
 <br />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alvin0523&theme=monokai" alt="Languages by repo" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvin0523&theme=monokai" alt="Top commit languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin0523&theme=monokai&hide_border=true&area=true&height=220" alt="Commit activity over time" />
 
 <br />
 
-<!-- Commit activity graph (heatmap-style timeline). Native green-square calendar is on your GitHub profile page below this README. -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin0523&theme=monokai&hide_border=true&area=true&height=220" alt="GitHub contribution activity graph" />
+<img src="./assets/contributor-stats.svg" alt="Top repos contributed to" />
 
 </div>
-
-> **Public repos only.** The **green square calendar** (contribution heatmap) appears on [github.com/Alvin0523](https://github.com/Alvin0523) under this README — GitHub does not embed that grid inside the README itself.
 
 <!-- Featured projects — hidden for now; uncomment when ready.
 

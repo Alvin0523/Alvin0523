@@ -1,0 +1,8 @@
+username: "Alvin0523"
+include-owned: true
+theme: "dark"
+show:
+  top-repo: 5
+  pr: true
+  commit: true
+  issue: true
