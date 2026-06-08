@@ -97,9 +97,9 @@
 ## 🕹️ Recent activity
 
 <!--START_SECTION:activity-->
-`Activity feed will appear here after the first GitHub Action run.`
+1. 🔒 Closed issue [#52](https://github.com/GulajavaMinistudio/Mayukai-Theme/issues/52) in [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme)
 
-1. 🚀 Push or open a PR — this section refreshes on a schedule
+2. ❗ Opened issue [#52](https://github.com/GulajavaMinistudio/Mayukai-Theme/issues/52) in [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme)
 <!--END_SECTION:activity-->
 
 ---
