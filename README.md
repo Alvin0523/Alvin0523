@@ -97,9 +97,9 @@
 ## 🕹️ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/utajum/g-helper-linux/issues/85#issuecomment-4926355131) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
+1. ❗ Opened issue [#155](https://github.com/utajum/g-helper-linux/issues/155) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
 
-2. ❗ Opened issue [#52](https://github.com/GulajavaMinistudio/Mayukai-Theme/issues/52) in [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme)
+2. 🗣 Commented on [#85](https://github.com/utajum/g-helper-linux/issues/85#issuecomment-4926355131) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
 <!--END_SECTION:activity-->
 
 ---
