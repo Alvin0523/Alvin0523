@@ -97,9 +97,9 @@
 ## 🕹️ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#155](https://github.com/utajum/g-helper-linux/issues/155) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
+1. 🗣 Commented on [#6](https://github.com/mees-robot-learning-course/ethz-course-2026/issues/6#issuecomment-5033517496) in [mees-robot-learning-course/ethz-course-2026](https://github.com/mees-robot-learning-course/ethz-course-2026)
 
-2. 🗣 Commented on [#85](https://github.com/utajum/g-helper-linux/issues/85#issuecomment-4926355131) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
+2. ❗ Opened issue [#155](https://github.com/utajum/g-helper-linux/issues/155) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
 <!--END_SECTION:activity-->
 
 ---
