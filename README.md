@@ -97,9 +97,9 @@
 ## 🕹️ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/mees-robot-learning-course/ethz-course-2026/issues/6#issuecomment-5033517496) in [mees-robot-learning-course/ethz-course-2026](https://github.com/mees-robot-learning-course/ethz-course-2026)
+1. 🎉 Merged PR [#1](https://github.com/Alvin0523/mdp_ros/pull/1) in [Alvin0523/mdp_ros](https://github.com/Alvin0523/mdp_ros)
 
-2. ❗ Opened issue [#155](https://github.com/utajum/g-helper-linux/issues/155) in [utajum/g-helper-linux](https://github.com/utajum/g-helper-linux)
+2. 💪 Opened PR [#1](https://github.com/Alvin0523/mdp_ros/pull/1) in [Alvin0523/mdp_ros](https://github.com/Alvin0523/mdp_ros)
 <!--END_SECTION:activity-->
 
 ---
